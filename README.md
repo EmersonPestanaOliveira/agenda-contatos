@@ -42,3 +42,5 @@ Um aplicativo para gerenciar contatos pessoais ou profissionais de forma eficien
    git clone https://github.com/seu-usuario/agenda-de-contatos.git
 
 ![image](https://github.com/user-attachments/assets/3072ea39-e8d1-4e42-bf31-ed1cf8de8c03)
+![image](https://github.com/user-attachments/assets/496e8274-d92e-4111-b3d4-e02c322359b8)
+
