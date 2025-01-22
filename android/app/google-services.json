@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "624547760238",
+    "project_id": "agenda-contatos-ca083",
+    "storage_bucket": "agenda-contatos-ca083.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624547760238:android:f3e97872cba760d03f7e7f",
+        "android_client_info": {
+          "package_name": "com.agendacontatos.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA28ZWffZe5Gb8-KVoqoGJ2hmXjQBkSyek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
