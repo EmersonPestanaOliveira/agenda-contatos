@@ -1,16 +1,44 @@
-# agenda_contatos
+# 📒 Agenda de Contatos
 
-A new Flutter project.
+Um aplicativo para gerenciar contatos pessoais ou profissionais de forma eficiente.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ **Funcionalidades Principais**
+- 📌 **Criar contatos** com nome, telefone e e-mail.
+- 📌 **Listar todos os contatos** cadastrados.
+- 📌 **Atualizar** os dados de um contato.
+- 📌 **Excluir** contatos.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ **Arquitetura**
+- 📐 Utiliza o padrão **Bloc/Cubit** (*Business Logic Component*) para organizar e separar a lógica de negócios.
+- ⚙️ **Gestão de estado** utilizando **ChangeNotifier**, evitando o uso de `setState()`.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🗄️ **Dados**
+- 🌐 **Firebase** como base de dados para armazenamento e sincronização em tempo real.
+
+---
+
+## 🧩 **Injeção de Dependência**
+- Implementada com o pacote **flutter_bloc**.
+
+---
+
+## 💻 **Tecnologias Utilizadas**
+- 🚀 **Flutter/Dart**: Framework e linguagem de desenvolvimento.
+- 🔥 **Firebase**: Para armazenamento e sincronização de dados.
+- 🔧 **flutter_bloc**: Para gerenciar a lógica de negócios.
+
+---
+
+## 🚀 **Como Contribuir**
+1. Faça um fork do projeto.
+2. Clone o repositório forkado:
+   ```bash
+   git clone https://github.com/seu-usuario/agenda-de-contatos.git
+
+![image](https://github.com/user-attachments/assets/3072ea39-e8d1-4e42-bf31-ed1cf8de8c03)
